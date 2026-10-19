@@ -1,4 +1,4 @@
-# MAC-Changer-Python
+# Mac-changer
 
 A small Linux command-line tool that shows, changes or randomizes a network interface's MAC address. It calls the system `ip` command (or `ifconfig` as a fallback) through Python's `subprocess` module, without a shell, and verifies the change afterward.
 
